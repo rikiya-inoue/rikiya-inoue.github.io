@@ -7,7 +7,7 @@ layout: default
 
 # Experiences
 
-## Sansan | Software Enginner (Nov. 2020 - present)
+## Sansan | Software Engineer (Nov. 2020 - present)
 - [Sansan](https://jp.sansan.com/)
   - [メール一括配信の配信停止リンク対応](https://sin.sansan.com/update/2021-07/)
   - [Concur Expense連携](https://sin.sansan.com/update/2021-11/)
@@ -18,10 +18,10 @@ layout: default
   - [メール一括配信 HTMLメールテンプレート](https://sin.sansan.com/update/2024-08/)
   - [接点のない企業 ダウンロード](https://sin.sansan.com/update/2024-09/)
 
-## GMO Internet Group | Software Enginieer (Dec. 2016 - Nov. 2020)
+## GMO Internet Group | Software Engineer (Dec. 2016 - Nov. 2020)
 - [ConoHa](https://www.conoha.jp/)
 - [Z.com Cloud](https://cloud.z.com/jp/)
 
 
-## Encourage Technologies | Software Enginieer (Apr. 2013 - Nov. 2016)
+## Encourage Technologies | Software Engineer (Apr. 2013 - Nov. 2016)
 - [ESS AdminControl](https://www.et-x.jp/product/eac/)
